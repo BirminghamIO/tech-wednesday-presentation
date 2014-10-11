@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Tech Wednesday presentation about Birmingham.IO",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "BirminghamIO",
+    "githubRepository": "tech-wednesday-presentation"
+  }
+}
