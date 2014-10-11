@@ -1,1 +1,19 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "who-am-i.md",
+        "about-me-tag-cloud.md",
+            {
+            "attr": {
+                "data-background": "/images/web-developer.jpg"
+            }
+        }
+    ],
+    [
+        "what-is-birminghamio.md"
+    ],
+    [
+        "thank-you.md",
+        "daniel-hollands.md"
+    ]
+]
