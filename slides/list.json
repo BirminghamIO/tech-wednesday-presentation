@@ -1,11 +1,15 @@
 [
-    "index.md",
+        {
+        "attr": {
+            "data-background": "images/index.png"
+        }
+    },
     [
         "who-am-i.md",
         "about-me-tag-cloud.md",
             {
             "attr": {
-                "data-background": "/images/web-developer.jpg"
+                "data-background": "images/web-developer.jpg"
             }
         }
     ],
