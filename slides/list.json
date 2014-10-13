@@ -1,20 +1,32 @@
 [
-        {
+    {
         "attr": {
             "data-background": "images/index.png"
         }
     },
+    "interactive-presentation.md",
     [
         "who-am-i.md",
         "about-me-tag-cloud.md",
-            {
+        {
             "attr": {
                 "data-background": "images/web-developer.jpg"
             }
         }
     ],
     [
-        "what-is-birminghamio.md"
+        "birminghamio.md",
+        "powered-by-discourse.md",
+        "planet-birmingham.md",
+        "fantasy-league-planet-birmingham.md",
+        "i-suck-at-fantasy-league-planet-birmingham.md",
+        "women-in-technology-meet-up.md",
+        "whisk-app-beta-testing.md",
+        "lots-and-lots-of-conversation.md"
+    ],
+    [
+        "please-stand-up.md",
+        "visit-birminghamio-on-your-phone.md"
     ],
     [
         "thank-you.md",
