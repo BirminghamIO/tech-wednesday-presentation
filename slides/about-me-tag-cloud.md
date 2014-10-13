@@ -1,4 +1,4 @@
-![](/images/about-me-tag-cloud.png)
+![](images/about-me-tag-cloud.png)
 
 note:
 	This is a (slightly manipulated) list of keywords taken from my CV site My Name is Daniel and my blog Lime Blast.
